@@ -12,7 +12,11 @@ If you are a Jimmy, you can [click here ](https://linkedin.com/in/devopskev) for
 ##### Current Location : Berlin.
 ##### Current Status : Geeking out on a 6 month research sabbatical.
 ##### Personal Projects
-* [cucurbits](https://github.com/DevOpsKev/cucurbits)
+[Cucurbits](https://github.com/DevOpsKev/cucurbits)
+
+[The DevOps Program](https://github.com/DevOpsKev)
+
+[DevOps Coach Book](https://github.com/DevOpsKev)
 
 ***
 

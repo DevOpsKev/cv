@@ -1,6 +1,6 @@
 # Kevin Ryan Curriculum vitae
 
-### "What is it you _do_ Kevin?"
+### "What is it you do Kevin?"
 
 >"No matter their goal. I coach people in the ability to learn faster and change faster. People may be individuals, teams or entire organizations. My clients operate within the digital economy and are involved in the development of technology-enabled products. 
 >

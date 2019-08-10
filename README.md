@@ -8,7 +8,7 @@ git pull upstream master
 ## DevOps Coach, Agile Coach, Podcaster, Author, Digital Nomad
 
 ##### Current Location : Berlin.
-##### Current Status : Geeking out on a 6 month research sabatical.
+##### Current Status : Geeking out on a 6 month research sabbatical.
 
 ***
 

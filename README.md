@@ -1,4 +1,4 @@
-For an up-to-date copy of my CV, ['Fork Me on Github'](https://github.com/DevOpsKev/cv) and at any time use the following command to ensure you have latest version:
+For an up-to-date copy of my CV, ['Fork Me on Github'](https://github.com/DevOpsKev/cv) and at any time use the following command to ensure you have latest version and then README:
 ```shell
 git pull upstream master
 ```
@@ -7,7 +7,7 @@ If you are a Jimmy, you can [click here ](https://linkedin.com/in/devopskev) for
 
 ***
 
-# Kevin Ryan - Curriculum Vitae - README!
+# Kevin Ryan - Curriculum Vitae
 
 ## DevOps Coach, Agile Coach, Podcaster, Author, Digital Nomad
 

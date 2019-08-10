@@ -4,8 +4,6 @@
 
 ### "What do you do?"
 
->My short answer.
->
 >"No matter their goal. I coach people in the ability to learn faster and change faster. People may be individuals, teams or entire organizations. My clients operate within the digital economy and are involved in the development of technology-enabled products. 
 >
 >I have a diverse set of skills and experience. This characteristic is essential for success at what I do. That is coach and mentor teams which consist of talented professionals representing a broad range of specialisms.
@@ -21,5 +19,5 @@
 >I am a DevOps Coach; it is a vocation, not a job.
 >
 >I love what I do."
->
->Kevin Ryan
+
+Kevin Ryan

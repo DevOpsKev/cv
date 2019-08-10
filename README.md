@@ -5,6 +5,8 @@ git pull upstream master
 
 If you are a Jimmy, you can [click here ](https://linkedin.com/in/devopskev) for my Linkedin profile.
 
+***
+
 # Kevin Ryan - Curriculum Vitae
 
 ## DevOps Coach, Agile Coach, Podcaster, Author, Digital Nomad

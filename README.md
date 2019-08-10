@@ -4,8 +4,6 @@
 
 ### "What do you do?"
 
-How many times have people asked you that same question?
-
 >My short answer.
 >
 >"No matter their goal. I coach people in the ability to learn faster and change faster. People may be individuals, teams or entire organizations. My clients operate within the digital economy and are involved in the development of technology-enabled products. 
@@ -23,3 +21,5 @@ How many times have people asked you that same question?
 >I am a DevOps Coach; it is a vocation, not a job.
 >
 >I love what I do."
+>
+>Kevin Ryan

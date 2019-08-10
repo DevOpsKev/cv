@@ -17,9 +17,9 @@ If you are a Jimmy, you can [click here ](https://linkedin.com/in/devopskev) for
 ## Personal Projects
 [Cucurbits](https://github.com/DevOpsKev/cucurbits)
 
-[The DevOps Program](https://github.com/DevOpsKev)
+[The DevOps Program](https://github.com/DevOpsKev/devops-program)
 
-[DevOps Coach Book](https://github.com/DevOpsKev)
+[DevOps Coach Book](https://github.com/DevOpsKev/devops-coach)
 
 ***
 

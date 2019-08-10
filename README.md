@@ -5,7 +5,10 @@ git pull upstream master
 
 # Kevin Ryan - Curriculum Vitae
 
-## DevOps Coach, Agile Coach, Podcaster, Author
+## DevOps Coach, Agile Coach, Podcaster, Author, Digital Nomad
+
+##### Current Location : Berlin.
+##### Current Status : Geeking out on a 6 month research sabatical.
 
 ### "What is it you do Kevin?"
 

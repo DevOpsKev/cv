@@ -10,6 +10,8 @@ git pull upstream master
 ##### Current Location : Berlin.
 ##### Current Status : Geeking out on a 6 month research sabatical.
 
+***
+
 ### "What is it you do Kevin?"
 
 >"No matter their goal. I coach people in the ability to learn faster and change faster. People may be individuals, teams or entire organizations. My clients operate within the digital economy and are involved in the development of technology-enabled products. 

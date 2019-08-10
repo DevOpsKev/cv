@@ -1,4 +1,4 @@
-For an up-to-date copy of my CV, ['Fork Me on Github'](https://github.com/TideKev/cv/) and at any time use the following command to ensure you have latest version:
+For an up-to-date copy of my CV, ['Fork Me on Github'](https://github.com/DevOpsKev/cv) and at any time use the following command to ensure you have latest version:
 ```shell
 git pull upstream master
 ```

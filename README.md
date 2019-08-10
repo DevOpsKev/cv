@@ -3,6 +3,8 @@ For an up-to-date copy of my CV, ['Fork Me on Github'](https://github.com/DevOps
 git pull upstream master
 ```
 
+If you are a suit, [click here ](www.linkedin.com/in/devopskev) for my Linkedin profile.
+
 # Kevin Ryan - Curriculum Vitae
 
 ## DevOps Coach, Agile Coach, Podcaster, Author, Digital Nomad

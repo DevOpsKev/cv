@@ -1,3 +1,8 @@
+To keep an up to date copy of my CV, Fork me and at any time use the following command to get a copy of the latest version:
+```shell
+git pull upstream master
+```
+
 # Kevin Ryan - Curriculum Vitae
 
 ## DevOps Coach, Agile Coach, Podcaster, Author

@@ -1,6 +1,6 @@
 # Kevin Ryan Curriculum vitae
 
-# DevOps Coach, Agile Coach, Podcaster, Author
+## DevOps Coach, Agile Coach, Podcaster, Author
 
 ### "What is it you do Kevin?"
 

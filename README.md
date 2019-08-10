@@ -1,4 +1,4 @@
-To keep an up to date copy of my CV, Fork me and at any time use the following command to get a copy of the latest version:
+To recieve a copy of my CV, 'Fork Me on Github' and at any time use the following command to ensure you have latest version:
 ```shell
 git pull upstream master
 ```

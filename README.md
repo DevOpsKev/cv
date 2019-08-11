@@ -54,7 +54,7 @@ Kevin was part of the Agile 1.0 movement, applying XP, TDD, Executable Specifica
 
 // TODO career journey 1 paragraph
 
-// TODO current value proposition
+// TODO current value proposition 1 paragraph
 
 ## Experience
 

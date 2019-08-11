@@ -48,5 +48,5 @@ Kevin is a DevOps Coach who will bring 20 years of experience to support you on 
 
 Kevin was part of the Agile 1.0 movement, applying XP, TDD, Executable Specification, and Continuous Integration as an engineer in the early naughties. When Agile was DevOps, Scrum was the new kid on the block, and The Cloud was on the brink of its invention.
 
-> It was the Dark Ages; most people hadn't heard of Google.
+> It was the Dark Ages; most people hadn't even heard of Google.
 

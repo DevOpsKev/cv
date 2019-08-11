@@ -1,4 +1,4 @@
-For an up-to-date copy of my CV, ['Fork Me on Github'](https://github.com/DevOpsKev/cv). At any time use the following command to ensure you have latest version and then, README:
+For an up-to-date copy of my CV, ['Fork Me on Github'](https://github.com/DevOpsKev/cv) then clone me. At any time use the following command to ensure you have latest version and then, README:
 ```shell
 git pull upstream master
 ```

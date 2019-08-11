@@ -46,4 +46,4 @@ If you are a Jimmy, or maybe need to send this to your boss, you can [click here
 ## Professional Biography
 Kevin is a DevOps Coach who will bring 20 years of experience to support you on your journey to DevOps adoption. An early-adoptor of Agile development practices Kevin has always kept his finger on the pulse of tech and engineering practices.
 
-Kevin was part of the Agile 1.0 movement, applying XP, TDD, Executable Specification, and Continuous Integration as an engineer in the early naughties. When Agile was DevOps and the Cloud was on the brink of invention.
+Kevin was part of the Agile 1.0 movement, applying XP, TDD, Executable Specification, and Continuous Integration as an engineer in the early naughties. When Agile was DevOps, and the Cloud was on the brink of its invention.

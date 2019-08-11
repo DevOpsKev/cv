@@ -50,7 +50,7 @@ An early-adoptor of Agile development Kevin has always kept his finger on the pu
 
 Kevin was part of the Agile 1.0 movement, applying XP, TDD, Executable Specification, and Continuous Integration as an engineer in the early naughties. When Agile was DevOps, Scrum was the new kid on the block, and The Cloud was on the brink of its invention.
 
-> It was the Dark Ages; most people hadn't heard of Google.
+> The world was just exiting the Dark Ages; Google had arrived.
 
 // TODO career journey 1 paragraph
 

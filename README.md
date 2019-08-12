@@ -11,7 +11,7 @@ If you are a Jimmy, or maybe need to send this to your boss, you can [click here
 
 ## DevOps Coach, Agile Coach, Podcaster, Author, Digital Nomad
 
-> "An Agile Coach will console you about your problems, A DevOps Coach will use a console to help you fix them".
+> "An Agile Coach will console you about your problems, A DevOps Coach will use a console to help you solve them".
 
 ##### Current Location : Berlin.
 ##### Current Status : Geeking out on a 6 month research sabbatical.

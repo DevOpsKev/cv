@@ -61,4 +61,4 @@ Kevin was part of the Agile 1.0 movement, applying XP, TDD, Executable Specifica
 ## Hobbies
 * Music (Techno obviously)
 * Sailing
-* Hiking and Treking
+* Hiking

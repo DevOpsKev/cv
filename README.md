@@ -119,6 +119,18 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
 
 **Further employment history available on request.**
 
+## Education
+
+#### Birmingham City University / Hons Digital Media
+* SEPT 1994 - JUNE 1997,  BIRMINGHAM UK
+
+## Awards
+
+#### William Hill Online
+#### ‘Best Use of Agile in the Private Sector’ UK Agile Awards 2014
+
+When Wiliam Hill won the 2014 Agile Award, Kevin was Radtac’s Principle Agile Coach supporting Wiliam Hill Online’s Agile adoption program. 
+
 
 ## Hobbies
 * Music

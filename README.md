@@ -66,17 +66,17 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
 ### Radtac / Agile & DevOps Coach
 2014 - PRESENT,  INTERNATIONAL
 
-Multiple clients including: Vodafone, William Hill Online, World Remit, Hello Fresh
+**Multiple clients including: Vodafone, William Hill Online, World Remit, Hello Fresh**
 
 ### Independent / Agile & DevOps Coach
 2016 - PRESENT,  INTERNATIONAL
 
-Multiple clients including: Volkswagen, Sky, Codere, Lantum, JLL, CBRE, Colliers
+**Multiple clients including: Volkswagen, Sky, Codere, Lantum, JLL, CBRE, Colliers**
 
 ### EY / Digital Product & Agile Coach
 July 2015 - April 2016,  LONDON UK
 
-Informa PLC
+**Informa PLC**
 
 ### McKinsey & Company / Agile Coach
 February 2015 - July 2015,  LONDON UK
@@ -84,7 +84,7 @@ February 2015 - July 2015,  LONDON UK
 ### BBC Worldwide / Interim Portfolio Director
 September 2012 - May  2014,  LONDON UK
 
-bbc.com, bbcgoodfood.com, topgear.com, Global iPlayer, BBC Store
+**bbc.com, bbcgoodfood.com, topgear.com, Global iPlayer, BBC Store**
 
 ### Financial Times / Agile Coach
 January 2010 - Sept  2012,  LONDON UK

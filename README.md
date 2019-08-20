@@ -64,44 +64,56 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
 ## Experience
 
 ### Radtac / Agile & DevOps Coach
-2014 - PRESENT,  INTERNATIONAL
-
-**Multiple clients including: Vodafone, William Hill Online, World Remit, Hello Fresh**
+* 2014 - PRESENT,  INTERNATIONAL
+* Multiple clients including: 
+    * Vodafone
+    * William Hill Online
+    * World Remit
+    * Hello Fresh
 
 ### Independent / Agile & DevOps Coach
-2016 - PRESENT,  INTERNATIONAL
-
-**Multiple clients including: Volkswagen, Sky, Codere, Lantum, JLL, CBRE, Colliers**
+* 2016 - PRESENT,  INTERNATIONAL
+* Multiple clients including: 
+    * Volkswagen
+    * Sky
+    * Codere
+    * Lantum
+    * JLL
+    * CBRE
+    * Colliers
 
 ### EY / Digital Product & Agile Coach
-July 2015 - April 2016,  LONDON UK
-
-**Informa PLC**
+* July 2015 - April 2016,  LONDON UK
+* Informa PLC
 
 ### McKinsey & Company / Agile Coach
-February 2015 - July 2015,  LONDON UK
+* February 2015 - July 2015,  LONDON UK
 
 ### BBC Worldwide / Interim Portfolio Director
-September 2012 - May  2014,  LONDON UK
-
-**bbc.com, bbcgoodfood.com, topgear.com, Global iPlayer, BBC Store**
+* September 2012 - May  2014,  LONDON UK
+* Multiple brands including: 
+    * bbc.com
+    * bbcgoodfood.com
+    * topgear.com
+    * Global iPlayer
+    * BBC Store
 
 ### Financial Times / Agile Coach
-January 2010 - Sept  2012,  LONDON UK
+* January 2010 - Sept  2012,  LONDON UK
 
 ### A.P. Moller - Maersk / Agile Coach
-June  2011 - Sept  2011,  COPENHAGEN DK
+* June  2011 - Sept  2011,  COPENHAGEN DK
 
 ### Pearson Group / Agile Engineering Coach
-September 2008 - December  2009,  LONDON UK
+* September 2008 - December  2009,  LONDON UK
 
 ### BAA / Agile Engineering Coach
-September 2007 - December  2008,  LONDON UK
+* September 2007 - December  2008,  LONDON UK
 
-### Barclays / Agile Engineering Coach
+* ### Barclays / Agile Engineering Coach
 January 2007 - September  2007,  LONDON UK
 
-### Xansa / Agile Engineer
+* ### Xansa / Agile Engineer
 February 2006 - January  2007,  LONDON UK
 
 Further employment history available on request.

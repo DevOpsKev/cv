@@ -121,6 +121,6 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
 
 
 ## Hobbies
-* Music (Techno obviously)
+* Music
 * Sailing
 * Hiking

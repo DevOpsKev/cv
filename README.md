@@ -63,7 +63,7 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
 
 ## Experience
 
-### Radtac / Agile & DevOps Coach
+#### Radtac / Agile & DevOps Coach
 * 2014 - PRESENT,  INTERNATIONAL
 * Multiple clients including: 
     * Vodafone
@@ -71,7 +71,7 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
     * World Remit
     * Hello Fresh
 
-### Independent / Agile & DevOps Coach
+#### Independent / Agile & DevOps Coach
 * 2016 - PRESENT,  INTERNATIONAL
 * Multiple clients including: 
     * Volkswagen
@@ -82,14 +82,14 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
     * CBRE
     * Colliers
 
-### EY / Digital Product & Agile Coach
+#### EY / Digital Product & Agile Coach
 * July 2015 - April 2016,  LONDON UK
 * Informa PLC
 
-### McKinsey & Company / Agile Coach
+#### McKinsey & Company / Agile Coach
 * February 2015 - July 2015,  LONDON UK
 
-### BBC Worldwide / Interim Portfolio Director
+#### BBC Worldwide / Interim Portfolio Director
 * September 2012 - May  2014,  LONDON UK
 * Multiple brands including: 
     * bbc.com
@@ -98,23 +98,23 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
     * Global iPlayer
     * BBC Store
 
-### Financial Times / Agile Coach
+#### Financial Times / Agile Coach
 * January 2010 - Sept  2012,  LONDON UK
 
-### A.P. Moller - Maersk / Agile Coach
+#### A.P. Moller - Maersk / Agile Coach
 * June  2011 - Sept  2011,  COPENHAGEN DK
 
-### Pearson Group / Agile Engineering Coach
+#### Pearson Group / Agile Engineering Coach
 * September 2008 - December  2009,  LONDON UK
 
-### BAA / Agile Engineering Coach
+#### BAA / Agile Engineering Coach
 * September 2007 - December  2008,  LONDON UK
 
-* ### Barclays / Agile Engineering Coach
-January 2007 - September  2007,  LONDON UK
+#### Barclays / Agile Engineering Coach
+* January 2007 - September  2007,  LONDON UK
 
-* ### Xansa / Agile Engineer
-February 2006 - January  2007,  LONDON UK
+#### Xansa / Agile Engineer
+* February 2006 - January  2007,  LONDON UK
 
 Further employment history available on request.
 

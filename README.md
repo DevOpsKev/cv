@@ -116,7 +116,8 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
 #### Xansa / Agile Engineer
 * February 2006 - January  2007,  LONDON UK
 
-Further employment history available on request.
+
+**Further employment history available on request.**
 
 
 ## Hobbies

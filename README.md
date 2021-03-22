@@ -18,7 +18,8 @@ git pull upstream master
 ##### Status : Building all the things with GitHub actions.
 ##### Email : kevin@pulpdigital.com
 ##### Web : https://pulpdigital.com/
-##### Web : https://blog.pulpdigital.com/
+##### Blog : https://blog.pulpdigital.com/
+##### Podcast : https://devopsprogram.com/
 
 ## Personal Projects
 

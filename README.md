@@ -10,7 +10,7 @@ git pull upstream master
 <img src="https://i.imgflip.com/52np41.jpg" width="350" />
 
 
-## DevOps Coach, DevOps Engineer, Blogger, Podcaster, Author, Founder, Digital Nomad
+### DevOps Coach, DevOps Engineer, Blogger, Podcaster, Author, Founder, Digital Nomad
 
 > "An Agile Coach will console you about your problems. A DevOps Coach will use a console to help you solve them".
 

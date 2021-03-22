@@ -9,6 +9,9 @@ If you are a Jimmy, or maybe need to send this to your boss, you can [click here
 
 # Kevin Ryan - Curriculum Vitae
 
+https://imgflip.com/i/52np41
+![](https://imgflip.com/i/52np41 | width=250)
+
 ## DevOps Coach, Agile Coach, Podcaster, Author, Digital Nomad
 
 > "An Agile Coach will console you about your problems. A DevOps Coach will use a console to help you solve them".

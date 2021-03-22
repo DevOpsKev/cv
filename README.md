@@ -13,8 +13,8 @@ If you are a Jimmy, or maybe need to send this to your boss, you can [click here
 
 > "An Agile Coach will console you about your problems. A DevOps Coach will use a console to help you solve them".
 
-##### Location : Berlin.
-##### Status : Geeking out on a 6 month research sabbatical.
+##### Location : Valencia, Spain
+##### Status : Building all the things with GitHub actions.
 
 ## Personal Projects
 

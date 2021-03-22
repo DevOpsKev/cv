@@ -17,11 +17,10 @@ If you are a Jimmy, or maybe need to send this to your boss, you can [click here
 ##### Status : Geeking out on a 6 month research sabbatical.
 
 ## Personal Projects
-[Cucurbits](https://github.com/DevOpsKev/cucurbits)
 
-[The DevOps Program](https://github.com/DevOpsKev/devops-program)
+[The DevOps Program](https://devopsprogram.com)
 
-[DevOps Coach Book](https://github.com/DevOpsKev/devops-coach)
+[DevOps Kanban Book](https://devopskanban.com/)
 
 ***
 

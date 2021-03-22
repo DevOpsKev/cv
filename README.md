@@ -15,7 +15,7 @@ git pull upstream master
 > "An Agile Coach will console you about your problems. A DevOps Coach will use a console to help you solve them".
 
 ##### Location : Valencia, Spain
-##### Status : Building all the things with GitHub actions.
+##### Status : Building 'all the things!' with GitHub actions.
 ##### Email : kevin@pulpdigital.com
 ##### Web : https://pulpdigital.com/
 ##### Blog : https://blog.pulpdigital.com/

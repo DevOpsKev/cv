@@ -17,6 +17,8 @@ git pull upstream master
 ##### Location : Valencia, Spain
 ##### Status : Building all the things with GitHub actions.
 ##### Email : kevin@pulpdigital.com
+##### Web : https://pulpdigital.com/
+##### Web : https://blog.pulpdigital.com/
 
 ## Personal Projects
 

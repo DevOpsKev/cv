@@ -9,7 +9,7 @@ If you are a Jimmy, or maybe need to send this to your boss, you can [click here
 
 # Kevin Ryan - Curriculum Vitae
 
-<img src="https://i.imgflip.com/52np41.jpg" width="250" />
+<img src="https://i.imgflip.com/52np41.jpg" width="350" />
 
 
 ## DevOps Coach, Agile Coach, Podcaster, Author, Digital Nomad

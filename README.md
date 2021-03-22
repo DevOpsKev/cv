@@ -3,8 +3,6 @@ For an up-to-date copy of my CV, ['Fork Me on Github'](https://github.com/DevOps
 git pull upstream master
 ```
 
-If you are a Jimmy, or maybe need to send this to your boss, you can [click here ](https://linkedin.com/in/devopskev) for my Linkedin profile.
-
 ***
 
 # Kevin Ryan - Curriculum Vitae

@@ -117,6 +117,26 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
 
 ## Professional Certification
 
+### GitLab
+
+[GitLab Certified Implementation Services Specialist](https://www.credly.com/badges/e26a2c43-089b-46fb-9529-2e7133ae2285/public_url)
+
+[GitLab Certified DevOps Professional](https://www.credly.com/badges/73b62343-d671-4477-b412-2d833dc4ea42/public_url)
+
+[GitLab Certified Security Specialist](https://www.credly.com/badges/a64f651f-aa8c-4000-bf6e-9e5d3070dcb6/public_url)
+
+[GitLab Certified Services Engineer Professional](https://www.credly.com/badges/90be4ffc-c869-4d0c-8143-99fcbe7099d5/public_url)
+
+[GitLab Certified Migration Services Specialist](https://www.credly.com/badges/5ed58594-5438-45df-b57a-f2f8ef7435eb/public_url)
+
+[GitLab Certified Project Management Associate](https://www.credly.com/badges/1038337d-fbe1-4150-85e1-1e8de4fa5c5c/public_url)
+
+[GitLab Certified CI/CD Associate](https://www.credly.com/badges/9340463c-a5d4-418e-9342-c18b145344e4/public_url)
+
+[GitLab Certified Git Associate](https://www.credly.com/badges/83b43694-a551-4f0b-81aa-b3f17d2bb3cf/public_url)
+
+### Launch Darkly
+
 [Launch Darkly Bronze Developer Certification](https://verify.skilljar.com/c/8m35pkrme9s8)
 
 [Launch Darkly Silver Developer Certification](https://verify.skilljar.com/c/cw4ix2japf23)

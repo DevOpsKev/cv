@@ -141,6 +141,8 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
 
 [Launch Darkly Silver Developer Certification](https://verify.skilljar.com/c/cw4ix2japf23)
 
+[Launch Darkly Gold Developer Certification](https://verify.skilljar.com/c/xvvkdsp227on)
+
 ## Awards
 
 #### William Hill Online

@@ -137,11 +137,13 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
 
 ### Launch Darkly
 
-[Launch Darkly Bronze Developer Certification](https://verify.skilljar.com/c/8m35pkrme9s8)
+[Launch Darkly Platinum Developer Certification](https://verify.skilljar.com/c/b7tc7cjjjdv9)
+
+[Launch Darkly Gold Developer Certification](https://verify.skilljar.com/c/xvvkdsp227on)
 
 [Launch Darkly Silver Developer Certification](https://verify.skilljar.com/c/cw4ix2japf23)
 
-[Launch Darkly Gold Developer Certification](https://verify.skilljar.com/c/xvvkdsp227on)
+[Launch Darkly Bronze Developer Certification](https://verify.skilljar.com/c/8m35pkrme9s8)
 
 ## Awards
 

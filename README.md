@@ -115,6 +115,12 @@ Coaching, CALMS, CICD, Inner Source, Open Source, Git, GitFlow, Distributed Vers
 #### Birmingham City University / Hons Digital Media
 * SEPT 1994 - JUNE 1997,  BIRMINGHAM UK
 
+## Professional Certification
+
+[Launch Darkly Bronze Developer Certification](https://verify.skilljar.com/c/8m35pkrme9s8)
+
+[Launch Darkly Silver Developer Certification](https://verify.skilljar.com/c/cw4ix2japf23)
+
 ## Awards
 
 #### William Hill Online
